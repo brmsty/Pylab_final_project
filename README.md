@@ -11,7 +11,7 @@ Menggunakan analytical approach “Predictive Analytics” dengan membuat model 
 
 
 ## Preparation Data
-Data yang digunakan adalah data Holiday Package Prediction. Sumber data dapat diakses di sini .  Dataset ini menggambarkan profil pelanggan yang sudah ada untuk digunakan dalam menganalisis dan memprediksi apakah customer tersebut akan membeli paket liburan terbaru atau tidak. Melakukan beberapa proses eksplorasi data (EDA) dan melakukan analisis statistika untuk mendapatkan insight yang menarik untuk dapat diolah dan divisualisasikan.
+Data yang digunakan adalah data Holiday Package Prediction. Sumber data dapat diakses [di sini](https://www.kaggle.com/susant4learning/holiday-package-purchase-prediction/code).  Dataset ini menggambarkan profil pelanggan yang sudah ada untuk digunakan dalam menganalisis dan memprediksi apakah customer tersebut akan membeli paket liburan terbaru atau tidak. Melakukan beberapa proses eksplorasi data (EDA) dan melakukan analisis statistika untuk mendapatkan insight yang menarik untuk dapat diolah dan divisualisasikan.
 
 ## Deskripsi Data
 Dari info data tersebut diketahui bahwa:
